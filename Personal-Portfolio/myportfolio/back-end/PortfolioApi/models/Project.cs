@@ -1,0 +1,13 @@
+namespace PortfolioApi.Models;
+
+public class Project
+{
+    public int Id { get; set; }
+    public string? Title { get; set; }
+    public string? Description { get; set; }
+    public string? Link { get; set; }
+    public string? Button { get; set; }
+
+    // Stored as comma separated string in DB
+    public string? Categories { get; set; }
+}

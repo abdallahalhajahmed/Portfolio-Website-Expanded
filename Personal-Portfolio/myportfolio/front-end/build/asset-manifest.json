@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38182e74.css",
+    "main.js": "/static/js/main.226cd4f2.js",
+    "static/js/488.412d63cb.chunk.js": "/static/js/488.412d63cb.chunk.js",
+    "static/media/SG-Abdallah Alhajahmed.pdf": "/static/media/SG-Abdallah Alhajahmed.afaf3531d72d4001494e.pdf",
+    "static/media/MyPic2.jpg": "/static/media/MyPic2.f4e2a460321a7086230c.jpg",
+    "static/media/MyPic.jpeg": "/static/media/MyPic.1b16101d3a2a97a9c1c8.jpeg",
+    "static/media/Sparta3.png": "/static/media/Sparta3.9c314d2702ec8df579ab.png",
+    "index.html": "/index.html",
+    "main.38182e74.css.map": "/static/css/main.38182e74.css.map",
+    "main.226cd4f2.js.map": "/static/js/main.226cd4f2.js.map",
+    "488.412d63cb.chunk.js.map": "/static/js/488.412d63cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38182e74.css",
+    "static/js/main.226cd4f2.js"
+  ]
+}

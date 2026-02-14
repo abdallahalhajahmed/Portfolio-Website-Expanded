@@ -1,0 +1,41 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.about-pic {
+  border-radius: 50%;
+  width: 210px;
+  height: 210px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  
+}
+
+.nav-pic {
+  max-width: 400px;
+  max-height: 100px;
+}
+
+.about-pic:hover {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+  /* transform: scale(1.05); */
+}
+
+.home-pic {
+  border-radius: 20px;
+  max-width: 400px;
+  max-height: 500px; 
+  margin-top: 40px;
+}
+
+body {
+  /* background: #F0F0F0; */
+  background: #F2F3F5;
+  /* background: #f8a4dc; */
+}
+
+.type-writer {
+  margin-top: 120px;
+  margin-bottom: 30px;
+}
