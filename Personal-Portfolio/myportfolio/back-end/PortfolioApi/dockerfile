@@ -1,13 +1,11 @@
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
-WORKDIR /app
-EXPOSE 5000
-
-FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+# Build stage
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 COPY . .
 RUN dotnet publish -c Release -o /app/out
 
-FROM base AS final
+# Runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out .
-ENTRYPOINT ["dotnet", "PortfolioApi.dll"]
+ENTRYPOINT ["dotnet", "ProjectsAPI.dll"]
