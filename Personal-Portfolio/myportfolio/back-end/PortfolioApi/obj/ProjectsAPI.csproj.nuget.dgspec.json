@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abdallah/Desktop/Personal-Portfolio-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj": {}
+    "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj": {}
   },
   "projects": {
-    "/Users/abdallah/Desktop/Personal-Portfolio-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj": {
+    "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdallah/Desktop/Personal-Portfolio-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj",
+        "projectUniqueName": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj",
         "projectName": "ProjectsAPI",
-        "projectPath": "/Users/abdallah/Desktop/Personal-Portfolio-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj",
+        "projectPath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/ProjectsAPI.csproj",
         "packagesPath": "/Users/abdallah/.nuget/packages/",
-        "outputPath": "/Users/abdallah/Desktop/Personal-Portfolio-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/obj/",
+        "outputPath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abdallah/.nuget/NuGet/NuGet.Config"

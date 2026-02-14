@@ -1,0 +1,14 @@
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/ProjectsAPI
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/appsettings.json
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/ProjectsAPI.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/ProjectsAPI.deps.json
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/ProjectsAPI.runtimeconfig.json
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/ProjectsAPI.pdb
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
