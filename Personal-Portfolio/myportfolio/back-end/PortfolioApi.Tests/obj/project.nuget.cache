@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHkVauQfPjY=",
+  "success": false,
+  "projectFilePath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdallah/.nuget/packages/microsoft.applicationinsights/2.23.0/microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0/microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0/microsoft.entityframeworkcore.inmemory.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0/microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.caching.memory/9.0.0/microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0/microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.logging/9.0.0/microsoft.extensions.logging.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testing.extensions.telemetry/2.1.0/microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testing.extensions.trxreport.abstractions/2.1.0/microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testing.extensions.vstestbridge/2.1.0/microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testing.platform/2.1.0/microsoft.testing.platform.2.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testing.platform.msbuild/2.1.0/microsoft.testing.platform.msbuild.2.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testplatform.objectmodel/18.0.1/microsoft.testplatform.objectmodel.18.0.1.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/microsoft.testplatform.testhost/17.12.0/microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/mstest/3.6.4/mstest.3.6.4.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/mstest.testadapter/4.1.0/mstest.testadapter.4.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/mstest.testframework/4.1.0/mstest.testframework.4.1.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/swashbuckle.aspnetcore/10.1.2/swashbuckle.aspnetcore.10.1.2.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.2/swashbuckle.aspnetcore.swagger.10.1.2.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.2/swashbuckle.aspnetcore.swaggergen.10.1.2.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.2/swashbuckle.aspnetcore.swaggerui.10.1.2.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512",
+    "/Users/abdallah/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: MSTest 3.6.4 requires MSTest.TestAdapter (= 3.6.4) but version MSTest.TestAdapter 4.1.0 was resolved.",
+      "projectPath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: MSTest 3.6.4 requires MSTest.TestFramework (= 3.6.4) but version MSTest.TestFramework 4.1.0 was resolved.",
+      "projectPath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for MSTest.Analyzers. Install/reference MSTest.Analyzers 4.1.0 directly to project PortfolioApi.Tests to resolve this issue. \n PortfolioApi.Tests -> MSTest.TestFramework 4.1.0 -> MSTest.Analyzers (>= 4.1.0) \n PortfolioApi.Tests -> MSTest 3.6.4 -> MSTest.Analyzers (= 3.6.4).",
+      "projectPath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "filePath": "/Users/abdallah/Desktop/Portfolio-Website-Expanded/Personal-Portfolio/myportfolio/back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj",
+      "libraryId": "MSTest.Analyzers",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

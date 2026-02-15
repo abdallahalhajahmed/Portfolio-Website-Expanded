@@ -18,7 +18,7 @@ public static class DbSeeder
                     "I also implemented a CD pipeline which automatically deploys the back-end to a Render instance. \n"+
                     "The front-end is deployed on a custom domain that I currently own, that is hosted by Hostinger.\n"+
                     "The back-end, hosted on Render, is also accessible via the Hostinger subdomain: api.abdallahalhajahmed.com/swagger.\n",
-                Link = "https://github.com/abdallahalhajahmed/Personal-Portfolio-Expanded",
+                Link = "https://github.com/abdallahalhajahmed/Portfolio-Website-Expanded",
                 Button = "GitHub",
                 Categories = "Full Stack"
             },
