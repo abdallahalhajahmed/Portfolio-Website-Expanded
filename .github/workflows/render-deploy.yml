@@ -1,4 +1,4 @@
-name: Deploy to Render
+name: Run Unit Tests and Deploy to Render
 
 on:
   push:
@@ -9,6 +9,23 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x'  
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build project
+        run: dotnet build --no-restore --configuration Release
+
+      - name: Run tests
+        run: dotnet test --no-build --verbosity normal
+
       - name: Trigger Render Deploy
         uses: fjogeleit/http-request-action@v1
         with:
