@@ -15,7 +15,7 @@ public static class DbSeeder
                 Description =
                     "I initially built this portfolio website using a React front-end to showcase my skills and my development as a software developer. This last week, I decided to expand it as a full-stack application using ASP.NET APIs for the back-end, which now \n" +
                     " enables the projects section to fetch the data from a Swagger API.\n"+
-                    "I also implemented a CD pipeline which automatically deploys the back-end to a Render instance. \n"+
+                    "I also implemented a CD pipeline which automatically runs Unit Tests written with MSTest and deploys the back-end to a Render instance. \n"+
                     "The front-end is deployed on a custom domain that I currently own, that is hosted by Hostinger.\n"+
                     "The back-end, hosted on Render, is also accessible via the Hostinger subdomain: api.abdallahalhajahmed.com/swagger.\n",
                 Link = "https://github.com/abdallahalhajahmed/Portfolio-Website-Expanded",
