@@ -15,38 +15,21 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 9.0.x
+          dotnet-version: '9.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore back-end/PortfolioApiSolution.sln
+        run: dotnet restore Personal-Portfolio/myportfolio/back-end/PortfolioApiSolution.sln
 
       - name: Build solution
-        run: dotnet build back-end/PortfolioApiSolution.sln --configuration Release --no-restore
+        run: dotnet build Personal-Portfolio/myportfolio/back-end/PortfolioApiSolution.sln --no-restore --configuration Release
 
       - name: Run unit tests
-        run: dotnet test back-end/PortfolioApi.Tests/PortfolioApi.Tests.csproj --no-build --verbosity normal
+        run: dotnet test Personal-Portfolio/myportfolio/back-end/PortfolioApiSolution.sln --no-build --verbosity normal
 
   deploy:
     runs-on: ubuntu-latest
     needs: build-and-test
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '9.0.x'  
-
-      - name: Restore dependencies
-        run: dotnet restore
-
-      - name: Build project
-        run: dotnet build --no-restore --configuration Release
-
-      - name: Run tests
-        run: dotnet test --no-build --verbosity normal
-
       - name: Trigger Render Deploy
         uses: fjogeleit/http-request-action@v1
         with:
