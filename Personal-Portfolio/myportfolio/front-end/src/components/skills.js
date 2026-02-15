@@ -12,7 +12,8 @@ import {
   FaJenkins,
   FaAws,
   FaLinux,
-  FaLeaf
+  FaLeaf,
+  FaDocker
 } from "react-icons/fa";
 
 import { 
@@ -21,13 +22,11 @@ import {
   SiSpringboot,
   SiSelenium,
   SiCucumber,
-  SiTerraform,
   SiTypescript,
   SiFlutter,
   SiSharp,
   SiGithubactions,
   SiDotnet,
-  SiPlaywright
 } from "react-icons/si";
 
 import { TbApi } from "react-icons/tb";
@@ -53,7 +52,7 @@ function Skills() {
           { icon: <SiSelenium size={50} />, title: "Selenium" },
           { icon: <SiCucumber size={50} />, title: "BDD (Cucumber)" },
           { icon: <SiGithubactions size={50} />, title: "CI/CD (GitHub Actions)" },
-          { icon: <FaBootstrap size={50} />, title: "Bootstrap" },
+          { icon: <SiLangchain size={50} />, title: "LangChain" },
           { icon: <FaGithub size={50} />, title: "Git" },
         ].map((skill, index) => (
           <div key={index} className="col-6 m-2 skill-box text-center mb-5" style={{ background: "#e9e6e2" }}>
@@ -77,10 +76,10 @@ function Skills() {
         {[
           { icon: <SiSharp size={50} />, title: "C#" },
           { icon: <SiDotnet size={50} />, title: "ASP.NET" },
+          { icon: <FaReact size={50} />, title: "React" },
+          { icon: <FaDocker size={50} />, title: "Docker" },
           { icon: <FaWordpress size={50} />, title: "WordPress" },
           { icon: <FaPython size={50} />, title: "Python" },
-          { icon: <SiLangchain size={50} />, title: "LangChain" },
-          { icon: <FaReact size={50} />, title: "React" },
           { icon: <SiFlutter size={50} />, title: "Flutter" },
           { icon: <FaDatabase size={50} />, title: "SQL" },
           { icon: <SiFlask size={50} />, title: "Flask" },

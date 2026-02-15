@@ -11,13 +11,14 @@ function Home() {
               <div 
                 className="type-writer py-5 fs-2 col-12 col-md-6 text-center text-md-center" 
                 > 
-                  <p className="mb-5 fs-2 fw-bold">Abdallah's Portfolio Website.</p>
+                  <p className="mb-5 fs-2 fw-bold">Abdallah's Portfolio Website</p>
                   <Typewriter
                     options={{
                     strings: [
                       "Sparta Global Consultant",
                       "Full-Stack Java Developer", 
                       "Java Test Automation Engineer",
+                      "ISTQB Certified",
                       "MSc, Software Development ",
                     ],
                     autoStart: true,

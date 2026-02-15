@@ -29,9 +29,10 @@ function About() {
             <div className="d-flex justify-content-center">
                 <p className="about-me text-center" style={{fontSize: "18px", maxWidth:"600px"}}>
                   I am a Java Full-Stack Software Developer with an MSc in Software Development and a strong background in Java Test Automation Engineering. 
-                  I am excited at the prospect of getting involved in and learning more about Asset Management, investment management systems, and Fixed Income,
+                  I am excited at the prospect of getting involved in and learning more about Asset Management, investment management systems, and Fixed Income.
                   <br></br><br></br>
-                  I have hands-on experience building diverse projects, including building the PalCafe website in collaboration with a UX writer; building a mobile-based Sales Analytics Sheet application in collaboration with a sales compliance manager; and creating multiple robust and extensible web and API test automation frameworks.
+                  I have hands-on experience building diverse projects, including building this React & ASP.NET Personal Portfolio website; contributing to a Full Stack Spring Boot Sparta Global Academy as the Scrum Master;
+                  building the PalCafe website in collaboration with a UX writer; building a mobile-based Sales Analytics Sheet application in collaboration with a sales compliance manager; and creating multiple robust and extensible web and API test automation frameworks.
 
                 </p> 
               </div>

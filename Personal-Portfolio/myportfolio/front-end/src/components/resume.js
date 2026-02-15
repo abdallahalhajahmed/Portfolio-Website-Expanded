@@ -12,7 +12,7 @@ function Resume() {
                 href={cv} 
                 download="Abdallah Alhajahmed.pdf"
                 >
-                  Download my Profile <i className="fa fa-download"></i></a>
+                  Download My Profile <i className="fa fa-download"></i></a>
           </div>
        </div>
       </section>
