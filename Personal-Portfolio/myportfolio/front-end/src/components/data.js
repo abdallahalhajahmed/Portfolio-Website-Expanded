@@ -4,7 +4,7 @@ export const projects = [
         id: 1,
         title: "Personal Portfolio – Full Stack React & ASP.NET Core",
         description: "I initially built this portfolio website using a React front-end to showcase my skills and my development as a software developer. This last week, I decided to expand it as a full-stack application using ASP.NET APIs for the back-end, which now enables the projects section to fetch the data from a Swagger API. I also implemented a CD pipeline which automatically deploys the back-end to a Render instance. The front-end is deployed on a custom domain that I currently own, that is hosted by Hostinger. The back-end, hosted on Render, is also accessible via the Hostinger subdomain: api.abdallahalhajahmed.com/swagger.",
-        link: "https://github.com/abdallahalhajahmed/Personal-Portfolio-Expanded",
+        link: "https://github.com/abdallahalhajahmed/Portfolio-Website-Expanded",
         button: "GitHub",
         category: ["Full Stack"],
     },
